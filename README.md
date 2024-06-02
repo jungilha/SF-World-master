@@ -1,7 +1,7 @@
 # San Francisco World: Leveraging Structural Regularities for 3-DoF Visual Compass
 This package provides a MATLAB implementation of the RA-L 2024 paper: "San Francisco World: Leveraging Structural Regularities for 3-DoF Visual Compass" for the purpose of research and study only.
 
-![SF-World](https://github.com/jungilha/SF-World-master/pipeline.png)
+![SF-World](https://github.com/jungilha/SF-World-master/blob/main/pipeline.png)
 
 
 # 1. Goal
@@ -10,7 +10,7 @@ The proposed method exploits line and plane primitives jointly to recognize the 
 Lines from RGB images and surface normals from depth images are simultaneously used to perceive environmental regularities accurately and stably.
 Our method tracks drift-free rotational motion while at least a single plane and a pair of lines parallel to the San Francisco world (MW) axes are visible. 
 
-![SF-World](https://github.com/jungilha/SF-World-master/result.png)
+![SF-World](https://github.com/jungilha/SF-World-master/blob/main/result.png)
 
 
 # 2. Prerequisites
