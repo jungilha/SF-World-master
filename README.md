@@ -10,7 +10,7 @@ The proposed method exploits line and plane primitives jointly to recognize the 
 Lines from RGB images and surface normals from depth images are simultaneously used to perceive environmental regularities accurately and stably.
 Our method tracks drift-free rotational motion while at least a single plane and a pair of lines parallel to the San Francisco world (MW) axes are visible. 
 
-![SF-World](https://github.com/PyojinKim/LPVO/blob/master/result.png)
+![SF-World](https://github.com/jungilha/SF-World-master/result.png)
 
 
 # 2. Prerequisites
