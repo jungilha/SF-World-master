@@ -13,7 +13,7 @@ addpath('forDrawingFigures');
 
 % choose the experiment case
 % ICL NUIM dataset (1~8)
-expCase = 6; % stairScene
+expCase = 1; % stairScene
 colors = {'r', 'g', 'b', 'c', 'm', 'y'};
 % are figures drawn?
 % 1 : yes, draw figures to see current status

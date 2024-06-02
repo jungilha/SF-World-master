@@ -9,10 +9,10 @@ switch( expCase )
     
 
     case 1
-        datasetPath = 'D:/Rot3';
+        datasetPath = '../half_turn_staircase';
         
         imInit      = 1;       % first image index, (1-based index)
-        M           = 1550;  % number of images
+        M           = 549;  % number of images
 
     case 2
         datasetPath = 'D:/15_2';
