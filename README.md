@@ -8,7 +8,7 @@ This package provides a MATLAB implementation of the RA-L 2024 paper: "San Franc
 Our goal is to estimate 3-DoF camera rotation with respect to indoor structured environments with slopes.
 The proposed method exploits line and plane primitives jointly to recognize the spatial regularities of orthogonal structured environments and the uniform inclination of slopes.
 Lines from RGB images and surface normals from depth images are simultaneously used to perceive environmental regularities accurately and stably.
-Our method tracks drift-free rotational motion while at least a single plane and a pair of lines parallel to the San Francisco world (MW) axes are visible. 
+Our method tracks drift-free rotational motion while at least a single plane and a pair of lines parallel to the San Francisco world (SFW) axes are visible. 
 
 ![SF-World](https://github.com/jungilha/SF-World-master/blob/main/result.png)
 
