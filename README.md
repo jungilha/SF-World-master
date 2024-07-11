@@ -20,12 +20,14 @@ This package is tested on the MATLAB R2023b on Windows 11 64-bit.
 # 3. Usage
 * Run SFworld_core/main_script_STSC_ARkit.m, which will give you the SFW detection and the 3D motion estimation result. Enjoy! :)
 # 4. SFW Datasets
-| sequence   | duration(s) | Download | Original bag file |
-|------------|--------------|----------|-------------------|
-| td_roll    | 63           | [link](#) | [link](#)          |
-| td_pitch   | 75           | [link](#) | [link](#)          |
-| td_yaw     | 50           | [link](#) | [link](#)          |
-| td_dock    | 98           | [link](#) | [link](#)          |
+|     Sequence      | Total Traveling Rotation |  Download  |
+|-------------------|--------------------------|------------|
+| half-turn (1)     |           360°           | [link](#)  |
+| half-turn (2)     |           360°           | [link](#)  |
+| quarter-turn (1)  |           180°           | [link](#)  |
+| quarter-turn (2)  |           360°           | [link](#)  |
+| in-place rotation |           1800°          | [link](#)  |
+
 
 # 5. Publications
 The approach is described and used in the following publications:
