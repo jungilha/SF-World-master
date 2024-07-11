@@ -23,10 +23,10 @@ This package is tested on the MATLAB R2023b on Windows 11 64-bit.
 |     Sequence      | Total Traveling Rotation |  Download  |
 |-------------------|--------------------------|------------|
 | Half-Turn (1)     |           360°           | [[link](https://drive.google.com/file/d/1a0MrvL0GwLVSftaS2v9_ocjYTKf-DFSg/view?usp=sharing)](#)  |
-| Half-Turn (2)     |           360°           | [link](#)  |
-| Quarter-Turn (1)  |           180°           | [link](#)  |
-| Quarter-Turn (2)  |           360°           | [link](#)  |
-| In-Place Rotation |           1800°          | [link](#)  |
+| Half-Turn (2)     |           360°           | [[link](https://drive.google.com/file/d/1JVf-ALRn5_CHngKRNmc7931_l57K1mur/view?usp=sharing)](#)  |
+| Quarter-Turn (1)  |           180°           | [[link](https://drive.google.com/file/d/1b7GDMLK9IKkb-8V0MTJmh5wYjgLdAcw2/view?usp=sharing)](#)  |
+| Quarter-Turn (2)  |           360°           | [[link](https://drive.google.com/file/d/1No39j8VHrOxNVeevmKWyt8SBCz0kWJhy/view?usp=sharing)](#)  |
+| In-Place Rotation |           1800°          | [[link](https://drive.google.com/file/d/1B4ycDQaqHyo9swFElklbNBIcHVURM_zv/view?usp=sharing)](#)  |
 
 
 # 5. Publications
