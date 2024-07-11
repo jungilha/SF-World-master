@@ -30,8 +30,8 @@ The approach is described and used in the following publications:
 # 5. License
 The package is licensed under the MIT License, see http://opensource.org/licenses/MIT.
 
-      author = {Kim, Pyojin and Coltin, Brian and Kim, H Jin},
-      title = {Low-Drift Visual Odometry in Structured Environments by Decoupling Rotational and Translational Motion},
-      year = {2018},
-      booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},
+      author = {Jungil Ham, Minji Kim, Suyoung Kang, Kyungdon Joo, Haoang Li, and Pyojin Kim},
+      title = {San Francisco World: Leveraging Structural Regularities for 3-DoF Visual Compass},
+      year = {2024},
+      booktitle = {IEEE Robotics and Automation Letters (RA-L)},
      }
