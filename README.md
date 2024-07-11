@@ -19,15 +19,20 @@ This package is tested on the MATLAB R2023b on Windows 11 64-bit.
 
 # 3. Usage
 * Run SFworld_core/main_script_STSC_ARkit.m, which will give you the SFW detection and the 3D motion estimation result. Enjoy! :)
+# 4. SFW Datasets
+| sequence   | duration(s) | Download | Original bag file |
+|------------|--------------|----------|-------------------|
+| td_roll    | 63           | [link](#) | [link](#)          |
+| td_pitch   | 75           | [link](#) | [link](#)          |
+| td_yaw     | 50           | [link](#) | [link](#)          |
+| td_dock    | 98           | [link](#) | [link](#)          |
 
-
-# 4. Publications
+# 5. Publications
 The approach is described and used in the following publications:
 
 * **San Francisco World: Leveraging Structural Regularities for 3-DoF Visual Compass** (Jungil Ham, Minji Kim, Suyoung Kang, Kyungdon Joo, Haoang Li, and Pyojin Kim), RA-L 2024.
 
-
-# 5. License
+# 6. License
 The package is licensed under the MIT License, see http://opensource.org/licenses/MIT.
 
       author = {Jungil Ham, Minji Kim, Suyoung Kang, Kyungdon Joo, Haoang Li, and Pyojin Kim},
